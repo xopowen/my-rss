@@ -4,7 +4,18 @@
     <title>Тестовая rss</title>
     <link>https://example.com/</link>
     <description>Последние публикации</description>
-    <language>ru</language>
-
+    <item>
+      <title>Свободный хокку.&#xD;</title>
+      <description>Свободный хокку.
+    Ветер с гор летит,
+    Тишина в долине спит,
+    Солнце встаёт вновь.</description>
+      <guid>20261015_c9ec0c0d</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 -0400</pubDate>
+      <content>Свободный хокку.&#xD;
+    Ветер с гор летит,
+    Тишина в долине спит,
+    Солнце встаёт вновь.</content>
+    </item>
   </channel>
 </rss>
