@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Тестовая rss</title>
+    <link>https://example.com/</link>
+    <description>Последние публикации</description>
+    <language>ru</language>
+
+  </channel>
+</rss>
