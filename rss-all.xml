@@ -14,7 +14,7 @@ https://github.com/xopowen/my-rss/blob/main/rss-all.xml
     <description>
 Последние публикации
 </description>
-    <atom:link href="https://github.com/xopowen/my-rss/blob/main/rss-all.xml" />
+    <atom:link href="https://github.com/xopowen/my-rss/blob/main/rss-all.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>«Магия реальна?»: трейлер фильма «Нарния: Племянник чародея»</title>
@@ -23,7 +23,7 @@ https://github.com/xopowen/my-rss/blob/main/rss-all.xml
       <guid isPermaLink="true">https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya</guid>
       <pubDate>Tue, 13 Oct 2026 18:10:37 +0000</pubDate>
       <dc:creator>DMa</dc:creator>
-      <media:cont url="https://leonardo.osnova.io/0a59fc2f-9d31-5c73-b59a-6683e77d32cd/-/format/mp4/" medium="image"/>
+      <media:content url="https://leonardo.osnova.io/0a59fc2f-9d31-5c73-b59a-6683e77d32cd/-/format/mp4/" medium="image"/>
       <content:encoded>Зарубежный прокат ленты начнётся в феврале 2027-го.</content:encoded>
     </item>
   </channel>
