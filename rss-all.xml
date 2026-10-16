@@ -1,20 +1,31 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<channel>
-<title>Тестовая rss</title>
-<link> https://github.com/xopowen/my-rss/blob/main/rss-all.xml </link>
-<generator>n8n</generator>
-<description> Последние публикации </description>
-<item>
-<title>«Магия реальна?»: трейлер фильма «Нарния: Племянник чародея»</title>
-<link>https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya?from=rss</link>
-<description>Зарубежный прокат ленты начнётся в феврале 2027-го.</description>
-<guid isPermaLink="true">https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya</guid>
-<pubDate>Tue, 13 Oct 2026 18:10:37 +0000</pubDate>
-<dc:creator>DMa</dc:creator>
-<image>
-<url>https://leonardo.osnova.io/0a59fc2f-9d31-5c73-b59a-6683e77d32cd/-/format/mp4/</url>
-</image>
-<content:encoded>Зарубежный прокат ленты начнётся в феврале 2027-го.</content:encoded>
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:media="http://search.yahoo.com/mrss/"
+>
+  <channel>
+    <title>Тестовая rss</title>
+    <link>
+https://github.com/xopowen/my-rss/blob/main/rss-all.xml
+</link>
+    <generator>n8n</generator>
+    <description>
+Последние публикации
+</description>
+    <atom:link href="
+https://github.com/xopowen/my-rss/blob/main/rss-all.xml
+" />
+
+    <item>
+      <title>«Магия реальна?»: трейлер фильма «Нарния: Племянник чародея»</title>
+      <link>https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya?from=rss</link>
+      <description>Зарубежный прокат ленты начнётся в феврале 2027-го.</description>
+      <guid isPermaLink="true">https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya</guid>
+      <pubDate>Tue, 13 Oct 2026 18:10:37 +0000</pubDate>
+      <dc:creator>DMa</dc:creator>
+      <media:cont url="https://leonardo.osnova.io/0a59fc2f-9d31-5c73-b59a-6683e77d32cd/-/format/mp4/" medium="image"/>
+      <content:encoded>Зарубежный прокат ленты начнётся в феврале 2027-го.</content:encoded>
+    </item>
+  </channel>
 </rss>
