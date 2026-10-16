@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Тестовая rss</title>
-    <link>https://example.com/</link>
+    <link>https://github.com/xopowen/my-rss/blob/main/rss-all.xml</link>
     <generator>n8n</generator>
     <description>Последние публикации</description>
     <item>
