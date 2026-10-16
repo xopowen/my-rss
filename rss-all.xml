@@ -6,6 +6,17 @@
     <atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
 
     <description>Последние публикации</description>
- 
+    <item>
+      <title>«Магия реальна?»: трейлер фильма «Нарния: Племянник чародея»</title>
+      <link>https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya?from=rss</link>
+      <description>.</description>
+      <guid isPermaLink="true">https://dtf.ru/cinema/5351759-treyler-filma-narniya-plemyannik-charodeya</guid>
+      <pubDate>Tue, 13 Oct 2026 18:10:37 +0000</pubDate>
+      <author>DMa</author>
+      <enclosure>
+        <url>https://leonardo.osnova.io/0a59fc2f-9d31-5c73-b59a-6683e77d32cd/-/format/mp4/</url>
+      </enclosure>
+      <content>Зарубежный прокат ленты начнётся в феврале 2027-го.</content>
+    </item>
   </channel>
 </rss>
