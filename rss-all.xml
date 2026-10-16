@@ -14,9 +14,7 @@ https://github.com/xopowen/my-rss/blob/main/rss-all.xml
     <description>
 Последние публикации
 </description>
-    <atom:link href="
-https://github.com/xopowen/my-rss/blob/main/rss-all.xml
-" />
+    <atom:link href="https://github.com/xopowen/my-rss/blob/main/rss-all.xml" />
 
     <item>
       <title>«Магия реальна?»: трейлер фильма «Нарния: Племянник чародея»</title>
